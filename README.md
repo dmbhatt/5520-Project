@@ -23,7 +23,7 @@ We looked at streak rather than rank because the rank only shows within the AL E
 # Results and Discussion
 Check out the python notebook.
 Coles notes:
-steak wasn't a relevant factor.
+steak wasn't a relevant factor. (streak not steak)
 
 # Conclusions
 
